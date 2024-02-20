@@ -1,0 +1,13 @@
+https://github.com/hema:echo "# my-first-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hemanthkt99/my-first-project.git
+git push -u origin mainnthkt99/my-first-projectecho "# my-first-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hemanthkt99/my-first-project.git
+git push -u origin main
